@@ -1,0 +1,11 @@
+.items-content h2{
+  font-size: 30px;
+}
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
